@@ -1,8 +1,5 @@
 # 📊 Financial Complaints Dashboard – Power BI
 
-## 🧩 Project Title
-Financial Complaints Analytics Dashboard
-
 ## 📝 Problem Statement
 A financial institution wants to understand customer complaints to improve customer service quality and regulatory compliance. The organization collects complaint data, but needs an interactive dashboard to visualize trends, KPIs, and complaint resolution performance.
 
